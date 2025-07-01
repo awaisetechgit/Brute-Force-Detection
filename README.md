@@ -14,7 +14,6 @@ Determine whether the brute-force attempts led to any **successful logons**, and
 
 ### Initial Query: Successful Logons from Suspicious IPs
 
-```
 
 ```sql
 DeviceLogonEvents
