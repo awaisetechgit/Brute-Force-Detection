@@ -1,6 +1,6 @@
 # Incident Response Case Study: Brute-Force Attempts on Azure VMs
 
-## 🕵️‍♂️ Incident Overview
+## Incident Overview
 
 We conducted an investigation after identifying **16 virtual machines (VMs)** targeted by brute-force attacks originating from **12 public IP addresses**.
 
