@@ -1,4 +1,4 @@
-# Incident Response Case Study: Brute-Force Attempts on Azure VMs
+# Incident Response Case Study: Brute-Force Attempts on Azure VMs (Cyber Range Lab)
 
 ## Incident Overview
 
